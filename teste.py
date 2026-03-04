@@ -12,6 +12,7 @@ print(oceano)
 print(caatinga)
 print(cerrado)
 print(type(oceano))
+
 nome=input("Insira seu nome: ")
 idade=int(input("Insira sua idade: "))
 futuro=(idade+27)
