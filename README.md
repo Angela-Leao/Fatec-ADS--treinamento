@@ -1,5 +1,4 @@
-# Projetinho de um Player universal
-*Ei de fazermos um aplicativo que possui compatibilidade intrínseca de reproduzir tanto mp3 e mp4 baixado do dispositvo tanto provenientes de links, e salvá-los pra usar-los novamente*
+#Player universal
 
 As linguagens principais serão: 
 Python para análise e pesquisa
